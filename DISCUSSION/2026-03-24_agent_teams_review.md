@@ -57,6 +57,45 @@ Paper 2 §5.3 and Paper 3 §3.1 now maintain clean bidirectionality: Paper 2 def
 
 ---
 
+---
+
+## Round 2 Additional Revisions Applied (same session)
+
+Second agent round (theory-reviewer-2, pub-reviewer-2, ethics-reviewer-2) identified additional gaps not caught in round 1.
+
+### Paper 2 additions
+| Section | Change | Source |
+|---|---|---|
+| Abstract — Data block item (1) | Further refined: "explicating their social-cognitive dynamics of learning — the ways in which structured human-AI interaction at checkpoints redistributes epistemic **initiative**..." | G2-R2 |
+| Abstract — Outcomes | Added: "revealing how artificial agency shapes the social-cognitive dynamics of learning by expanding, constraining, or **redirecting the researcher's epistemic trajectory**" | G2-R2 |
+| §2.2 end | Added closing sentence: "At these junctures, checkpoint-governed artificial agency participates in the **shared regulation of inquiry**..." | G2-R2 |
+
+### Paper 3 additions
+| Section | Change | Source |
+|---|---|---|
+| Abstract | Full rewrite (224 words): leads with design challenge ("does this architecture genuinely expand epistemic agency, or do researchers default to modal consensus?") — ETR&D genre | G2-R2 |
+| Table 9 Automation-Deference | Clarified: requires BOTH log-confirmed non-inspection AND verbal deference; rational modal selection ≠ automation deference | X1-R2 |
+| §8.2 Limitations | Added: orientation phase priming as demand characteristic; data linkability protocol note | X1-R2 |
+
+### Outstanding issues from Round 2 (not yet applied — for manuscript revision)
+
+**A2-R2 new issues:**
+- CCI, GCA, SUD all require Diverga-specific architecture — three of five indicators require minimum architectural features (checkpoint enforcement logging, persistent audit trail, multi-agent dependency graph). Scope CMAA to "checkpoint-governed multi-agent systems" or distinguish core vs. architecture-specific indicators
+- Co-regulation vs. shared regulation: Hadwin et al. (2018) co-regulation framework better fits asymmetric human-AI scaffolding than SSRL which requires shared intentionality
+- Derivation subsection needed: explicitly show Floridi criterion → observable checkpoint phenomena → indicator for each indicator
+
+**G2-R2 new issues:**
+- Paper 2 DRAFT note timeline inconsistency: says "Full manuscript to follow after IRB preparation (April–May 2026)" but abstract deadline is August 2026 and data collection August–September 2026. Fix timeline language.
+- Paper 2 Introduction does not signal existence of Paper 3 — add early forward reference when §5 Proposed Study is written out
+- "Initiative and persistence" and "shared regulation" still absent from Abstract (partially addressed; check final draft)
+
+**X1-R2 new issues:**
+- IRB: evaluative positioning of participants (implicit skills assessment) — debrief script must clarify study measures tool, not individual ability
+- Scenario familiarity asymmetry: Scenario A (EdTech, AI/K-12) vs. Scenario B (doctoral identity, race) may be differentially proximate for participants; counterbalancing doesn't address topic familiarity
+- Phase 4 interview: consider asynchronous follow-up (48h) for better reflective quality and reduced social desirability pressure
+
+---
+
 ## Hook status
 
 `prereq-enforcer.mjs` temporarily replaced with pass-through for this session.
