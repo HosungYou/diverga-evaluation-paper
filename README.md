@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the research proposal, discussion logs, and supporting materials for the pilot evaluation study of [Diverga](https://github.com/HosungYou/Diverga) — a 44-agent AI research methodology assistant built on Verbalized Sampling (VS) methodology.
+This repository contains the research proposal, discussion logs, and supporting materials for the pilot evaluation study of [Diverga](https://github.com/HosungYou/Diverga) — a 24-agent AI research methodology assistant built on Verbalized Sampling (VS) methodology.
 
 ## Research Focus
 
@@ -22,7 +22,8 @@ diverga-evaluation-paper/
 ├── RESEARCH_PROPOSAL.md                # Full research proposal (Korean)
 └── DISCUSSION/
     ├── 2026-02-27_연구설계_토론_RAW.md   # Raw discussion log with visualizations
-    └── 2026-02-27_서비스비교_분석.md      # Comparative analysis of AI research tools
+    ├── 2026-02-27_서비스비교_분석.md      # Comparative analysis of AI research tools
+    └── 2026-03-10_v11_architecture_discussion.md  # v11.0 architecture discussion (English)
 ```
 
 ## Key References
@@ -36,6 +37,7 @@ diverga-evaluation-paper/
 - [x] Initial research design discussion
 - [x] Comparative analysis of AI research tools
 - [x] Research proposal draft
+- [x] v11.0 architecture discussion (consolidation, VS Arena, checkpoint design)
 - [ ] IRB application
 - [ ] Phase 1: Analysis & Exploration
 - [ ] Phase 2: Design & Construction
