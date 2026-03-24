@@ -3,7 +3,7 @@
 ## Updated Following Yang Meeting, 2026-03-21
 
 **Authors:** Hosung You (Pennsylvania State University) & Mohan Yang (Texas A&M University)
-**Target Journal:** Computers & Education
+**Target Journal:** Educational Technology Research and Development (ETR&D)
 **Status:** Design v2, 2026-03-21
 **Relationship to Other Papers:** Paper 2 (BJET) provides the theoretical/methodological framework; this paper focuses on empirical results.
 
@@ -182,7 +182,7 @@ Rationale for format change:
 | **Phase 0: Pre-task** | Design a study on "The impact of AI tools on K-12 student academic achievement." Include theoretical framework, methods, and data collection plan. Written in Google Doc, no AI tools. | 30 min | Pre-task artifact (Google Doc) |
 | **Phase 1: Orientation** | Diverga features walkthrough: checkpoint system, VS/T-Score explanation, agent categories. Hands-on practice with a non-scored scenario. | 20 min | (No formal data; orientation log) |
 | **Break** | | 5 min | |
-| **Phase 2: Post-task** | Design a study on "The impact of AI-based collaboration tools on team creativity in remote work." Use Diverga with think-aloud protocol. | 60 min | Screen recording, think-aloud audio, decision-log.yaml, post-task artifact |
+| **Phase 2: Post-task** | Design a study on "What factors shape academic socialization and research identity formation among first-generation doctoral students from racially underrepresented groups in STEM fields?" Use Diverga with think-aloud protocol. | 60 min | Screen recording, think-aloud audio, decision-log.yaml, post-task artifact |
 | **Break** | | 5 min | |
 | **Phase 3: Re-design** | Revisit Phase 0 scenario using Diverga. Think-aloud protocol. Focus: how does the participant's approach change with Diverga? | 40 min | Screen recording, think-aloud audio, decision-log.yaml, re-design artifact |
 | **Phase 4: Interview** | Semi-structured interview (see Document 2 for full rationale and guide) | 25-30 min | Interview audio recording |
@@ -278,9 +278,9 @@ Paper 2 establishes the theoretical/methodological architecture. Paper 3's analy
 | **Weeks 12-14** (Jul-Aug 2026) | Transcription & Preparation | Transcribe think-aloud and interview recordings; organize decision-log.yaml files; compile artifacts |
 | **Weeks 15-18** (Aug-Sep 2026) | Analysis | Within-case analysis; cross-case analysis; joint coding sessions (You & Yang) |
 | **Weeks 19-22** (Oct-Nov 2026) | Writing | Draft Paper 3 manuscript; internal review cycles |
-| **Weeks 23-24** (Nov-Dec 2026) | Submission | Final revisions; submit to Computers & Education |
+| **Weeks 23-24** (Nov-Dec 2026) | Submission | Final revisions; submit to ETR&D |
 
-**Note:** This timeline runs in parallel with Paper 2 (BJET Special Issue, abstract due 2026-08-01, full manuscript due 2026-10-28). Paper 2's theoretical framework will be substantially developed by the time Paper 3 data collection begins, ensuring analytic coherence.
+**Note:** This timeline runs in parallel with Paper 2 (BJET Special Issue, abstract due 2026-08-01, full manuscript due 2026-10-28). Paper 2's theoretical framework will be substantially developed by the time Paper 3 data collection begins, ensuring analytic coherence. Journal changed from C&E to ETR&D (2026-03-24): design-based research focus and N=5 intensive methodology norms are a better fit.
 
 ---
 
