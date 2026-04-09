@@ -19,12 +19,26 @@ This repository contains the research proposal, discussion logs, and supporting 
 ```
 diverga-evaluation-paper/
 ├── README.md                           # This file
-├── RESEARCH_PROPOSAL.md                # Full research proposal (Korean)
-└── DISCUSSION/
-    ├── 2026-02-27_연구설계_토론_RAW.md   # Raw discussion log with visualizations
-    ├── 2026-02-27_서비스비교_분석.md      # Comparative analysis of AI research tools
-    └── 2026-03-10_v11_architecture_discussion.md  # v11.0 architecture discussion (English)
+├── RESEARCH_PROPOSAL.md                # Earlier research proposal (Korean)
+├── Research_Design_IRB/                # Unified IRB research design (v1, 2026-04-09)
+│   ├── README.md                       # Design overview and key decisions
+│   └── Research_Design_IRB_v1.docx     # APA 7 document covering Paper 2 + Paper 3 shared protocol
+├── Paper1_DesignCase/                  # Paper 1: Design case for IJDL
+├── Paper2_BJET_Methodological/         # Paper 2: Methodology paper for BJET Special Issue
+├── Paper3_Experimental/                # Paper 3: Empirical study manuscript drafts
+├── DISCUSSION/                         # Raw discussion and review logs
+└── scripts/                            # Supporting analysis scripts
 ```
+
+## Three-Paper Publication Strategy
+
+| Paper | Type | Target Journal | Status |
+|---|---|---|---|
+| Paper 1 | Design case | International Journal of Designs for Learning (IJDL) | Draft submitted via IJDL_Proposal_Form |
+| Paper 2 | Methodology | British Journal of Educational Technology, Special Issue on Agentic AI in Education (SI-2026-000285) | Draft v2 (APA 7); IRB pending |
+| Paper 3 | Empirical | Computers & Education | Draft v2 (APA 7); IRB pending |
+
+Papers 2 and 3 share a single N = 5 within-subject dataset collected under the protocol in `Research_Design_IRB/`. The partition between them is by unit of analysis (indicator-centric vs case-centric), not by data subset.
 
 ## Key References
 
@@ -38,10 +52,17 @@ diverga-evaluation-paper/
 - [x] Comparative analysis of AI research tools
 - [x] Research proposal draft
 - [x] v11.0 architecture discussion (consolidation, VS Arena, checkpoint design)
-- [ ] IRB application
-- [ ] Phase 1: Analysis & Exploration
-- [ ] Phase 2: Design & Construction
-- [ ] Phase 3: Evaluation & Reflection
+- [x] Paper 2 (BJET) and Paper 3 (C&E) proposal drafts v1
+- [x] Paper 2 and Paper 3 APA 7 drafts v2
+- [x] Research Design (For IRB) v1 with Yang et al. (2025) HALIE integration
+- [ ] Instrument adaptation and pilot testing (self-efficacy, engagement, performance rubric)
+- [ ] Diverga instrumentation layer extensions (CMAA telemetry)
+- [ ] OSF pre-registration
+- [ ] IRB submission (SMART IRB multi-site reliance)
+- [ ] Pilot sessions
+- [ ] Main data collection
+- [ ] Paper 2 BJET submission (abstract 2026-08-01; full manuscript 2026-10-28)
+- [ ] Paper 3 Computers & Education submission (December 2026)
 
 ## License
 
