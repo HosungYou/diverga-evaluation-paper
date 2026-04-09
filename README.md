@@ -19,13 +19,26 @@ This repository contains the research proposal, discussion logs, and supporting 
 ```
 diverga-evaluation-paper/
 ├── README.md                           # This file
+├── CHANGELOG.md                        # Version history
 ├── RESEARCH_PROPOSAL.md                # Earlier research proposal (Korean)
 ├── Research_Design_IRB/                # Unified IRB research design (v1, 2026-04-09)
 │   ├── README.md                       # Design overview and key decisions
 │   └── Research_Design_IRB_v1.docx     # APA 7 document covering Paper 2 + Paper 3 shared protocol
 ├── Paper1_DesignCase/                  # Paper 1: Design case for IJDL
 ├── Paper2_BJET_Methodological/         # Paper 2: Methodology paper for BJET Special Issue
-├── Paper3_Experimental/                # Paper 3: Empirical study manuscript drafts
+│   ├── Paper2_BJET_APA7_draft_v2.docx  # v2 (historical; no HALIE integration)
+│   └── Paper2_BJET_APA7_draft_v3.docx  # v3 with Yang (2025) HALIE integration
+├── Paper3_Experimental/                # Paper 3: Empirical study for Computers and Education: Artificial Intelligence
+│   ├── Paper3_ETRnD_APA7_draft_v2.docx # v2 (historical; ETR&D target, no HALIE)
+│   └── Paper3_CE_AI_APA7_draft_v3.docx # v3 with C&E:AI target + Yang (2025) HALIE integration
+├── Instruments/                        # Draft adaptations of measurement instruments
+│   ├── README.md
+│   ├── 01_self_efficacy_scale_draft.md
+│   ├── 02_engagement_composite_draft.md
+│   ├── 03_performance_rubric_draft.md
+│   ├── 04_dok_rubric_adapted.md
+│   ├── 05_prompt_relevance_rubric_adapted.md
+│   └── 06_originality_rubric_adapted.md
 ├── DISCUSSION/                         # Raw discussion and review logs
 └── scripts/                            # Supporting analysis scripts
 ```

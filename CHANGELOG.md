@@ -6,6 +6,38 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ---
 
+## [0.4.0] - 2026-04-09
+
+### Added
+
+- **Paper 2 v3** (`Paper2_BJET_Methodological/Paper2_BJET_APA7_draft_v3.docx`) with Yang (2025) HALIE integration. CMAA reframed as an extension of Yang et al.'s (2025) HALIE application from standard generative AI to checkpoint-governed agentic AI, with two-tier measurement structure (Tier 1 HALIE-adapted metrics + Tier 2 CMAA indicators) foregrounded in the theoretical framework and methodology sections. Claude.ai baseline adopted, 2-day session split, partial Latin square counterbalancing. Agent count corrected from 24 to 29. Paper 3 cross-reference updated from ETR&D to Computers and Education: Artificial Intelligence.
+- **Paper 3 v3** (`Paper3_Experimental/Paper3_CE_AI_APA7_draft_v3.docx`) with target journal changed from Educational Technology Research and Development to Computers and Education: Artificial Intelligence. Full multiple case study design with Activity Theory primary framework and HALIE/CMAA embedded as quantitative measurement stream. Independent performance evaluation protocol added following Yang et al. (2025) precedent. Yang (2025) Literature Review subsection added. References updated.
+- **Instruments/ folder** containing six draft instrument adaptations for Principal Investigator review before pilot testing:
+  - `01_self_efficacy_scale_draft.md`: Adapted 5-item AI self-efficacy scale (Avey et al., 2009 via Yang et al., 2025)
+  - `02_engagement_composite_draft.md`: Adapted 8-item engagement composite (Skinner et al., 2009; Fredricks et al., 2004; Halverson & Graham, 2019 via Yang et al., 2025)
+  - `03_performance_rubric_draft.md`: New 4-dimension research design quality rubric for independent performance evaluation
+  - `04_dok_rubric_adapted.md`: Webb (2002) Depth of Knowledge rubric adapted for checkpoint selections
+  - `05_prompt_relevance_rubric_adapted.md`: Yang et al. (2025, Appendix A) prompt relevance rubric adapted
+  - `06_originality_rubric_adapted.md`: Yang et al. (2025, Appendix A) originality rubric adapted
+- `Instruments/README.md` documenting the purpose, contents, and review process for all instrument adaptations.
+
+### Changed
+
+- Paper 2 and Paper 3 manuscripts now consistently reference the two-tier measurement structure and the shared Research Design IRB document in `Research_Design_IRB/`.
+- Paper 2 abstract and introduction now position CMAA as an extension of Yang et al. (2025) HALIE application rather than as a standalone methodology.
+- Paper 3 filename prefix changed from `Paper3_ETRnD` to `Paper3_CE_AI` to match the updated target journal.
+
+### Deprecated
+
+- `Paper2_BJET_Methodological/Paper2_BJET_APA7_draft_v2.docx` (retained for historical reference; superseded by v3)
+- `Paper3_Experimental/Paper3_ETRnD_APA7_draft_v2.docx` (retained for historical reference; superseded by v3)
+
+### Note on instrument finalization
+
+The six instrument drafts in `Instruments/` are intended for Principal Investigator review before pilot testing. Pilot testing with two external methodologists will establish baseline inter-rater reliability (Cohen's kappa >= 0.70 target) before study artifacts are scored. Final instrument versions will be locked in the Open Science Framework pre-registration before data collection begins.
+
+---
+
 ## [0.3.1] - 2026-04-09
 
 ### Changed
