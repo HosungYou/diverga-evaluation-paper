@@ -1,6 +1,6 @@
 # Research Design (For IRB)
 
-Unified research design document supporting the multi-site Institutional Review Board (IRB) protocol for the Diverga evaluation study. This single document covers both Paper 2 (BJET methodology) and Paper 3 (Computers & Education empirical) because they share the same N = 5 within-subject dataset.
+Unified research design document supporting the multi-site Institutional Review Board (IRB) protocol for the Diverga evaluation study. This single document covers both Paper 2 (BJET methodology) and Paper 3 (Computers and Education: Artificial Intelligence empirical) because they share the same N = 5 within-subject dataset.
 
 ---
 
@@ -57,7 +57,7 @@ The Principal Investigator, who did not develop Diverga, serves as an independen
 | Related path | Relationship |
 |---|---|
 | `Paper2_BJET_Methodological/` | Paper 2 manuscript drafts. Needs updating to reflect Yang (2025) HALIE integration and two-tier measurement structure. |
-| `Paper3_Experimental/` | Paper 3 manuscript drafts. The target journal used in existing draft filenames (ETR&D) may differ from the target specified in this design document (Computers & Education). Clarification needed. |
+| `Paper3_Experimental/` | Paper 3 manuscript drafts. Target journal finalized as Computers and Education: Artificial Intelligence (C&E:AI) on 2026-04-09. Existing files in this folder still use the earlier ETR&D filenames and content; they will be updated in the next release to reflect the C&E:AI target and Yang (2025) HALIE integration. |
 | `RESEARCH_PROPOSAL.md` | Earlier proposal in Korean. Superseded by this English research design for IRB purposes. |
 | `You_Yang_2026_Research_Design_Draft.docx` | Earlier research design draft (Paper 1 design case). Different scope and purpose. Retained for historical reference. |
 

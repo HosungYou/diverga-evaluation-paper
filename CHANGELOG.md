@@ -6,11 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ---
 
+## [0.3.1] - 2026-04-09
+
+### Changed
+
+- **Paper 3 target journal finalized as Computers and Education: Artificial Intelligence (C&E:AI)**, replacing the earlier Computers & Education target. Rationale: C&E:AI is explicitly AI-focused, welcomes qualitative and case study methodology, has no minimum sample size norm, shares the publisher with Computers & Education, and was identified by the journal matching analysis as the highest-confidence venue for an N = 5 multiple case study of doctoral researchers' engagement with agentic AI.
+- Research Design document updated throughout (abstract, Section 2.2 Paper 3 research questions, Section 9 Timeline, Section 10 Outstanding Items) to reflect the new target.
+- Repository README, Research_Design_IRB README, and this CHANGELOG updated accordingly.
+
+### Note on existing Paper 3 manuscripts
+
+- Existing files in `Paper3_Experimental/` retain the ETR&D filenames and content from v0.2.0. These will be updated in the next release (v0.4.0) to reflect the C&E:AI target and the Yang (2025) HALIE integration introduced in v0.3.0.
+
+---
+
 ## [0.3.0] - 2026-04-09
 
 ### Added
 
-- **Research_Design_IRB/ folder** containing the unified research design document that supports the multi-site Institutional Review Board protocol for both Paper 2 (BJET methodology) and Paper 3 (Computers & Education empirical) from a single shared N = 5 dataset.
+- **Research_Design_IRB/ folder** containing the unified research design document that supports the multi-site Institutional Review Board protocol for both Paper 2 (BJET methodology) and Paper 3 (Computers and Education: Artificial Intelligence empirical) from a single shared N = 5 dataset.
 - `Research_Design_IRB/Research_Design_IRB_v1.docx` (APA 7 formatted, 9 tables, 19 references) specifying participants, recruitment, measurement, data collection, analysis plan, IRB protections, timeline, and outstanding items.
 - `Research_Design_IRB/README.md` documenting the folder contents, key design decisions, and outstanding items.
 
